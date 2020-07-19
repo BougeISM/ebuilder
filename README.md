@@ -179,7 +179,7 @@ step 4) right-click the golden sword
 **Replace a type of block to another on a wall**
 
 ```
-1. pick a new block by right-click golden boots
+1. pick a new block by right-click golden carrot
 2. move to the front of the wall
 3. put a torch to one of the block to replace in front of you
 ```
